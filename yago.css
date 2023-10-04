@@ -1,13 +1,13 @@
 h1 {
     text-align:center;
-    background-color: aqua;
+    background-color: gold;
 }
 h2{
     text-align: center;
 }
 h3{
     font-style: oblique;
-    background-color: blue;
+    background-color: goldenrod;
     text-align: center;
 }
 
@@ -20,7 +20,7 @@ strong {
 }
 
 body {
-    background-color: blueviolet;
+    background-color: white;
 }
 .imagem1 {
     width: 200px;
@@ -30,7 +30,7 @@ body {
 }
 
 .unicornio {
-    background-color: forestgreen
+    background-color: yellow
 
 }
 .brilho {

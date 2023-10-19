@@ -48,4 +48,11 @@ nav a{
     color: blanchedalmond;
     font-weight: 300;
     font-size: 100%;
-}
+
+    nav a{
+        
+        border-color: gold;
+        border-width: 10px;
+        border-style: solid; 
+        backgound-color: gold;
+    }
